@@ -1,0 +1,11 @@
+GOPRO_Large/
+GOPRO_Large_all/
+*.zip
+.venv/
+venv/
+__pycache__/
+*.pyc
+results/
+train_pairs.png
+test_pairs.png
+.env
